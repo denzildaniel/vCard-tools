@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:My_best_friend
+N:;My_best_friend;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:example@example.com
+item1.TEL:1234567890
+item1.X-ABLabel:
+item2.ORG:My Office
+item2.X-ABLabel:
+item3.TITLE:Office_staff
+item3.X-ABLabel:
+CATEGORIES:Work_group,Play_group
+END:VCARD

@@ -1,0 +1,46 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Contact Name1
+N:Name1;Contact;;;
+item1.EMAIL;TYPE=INTERNET:example1@example.com
+item1.X-ABLabel:INTERNET
+item2.EMAIL;TYPE=INTERNET:example1b@example.com
+item2.X-ABLabel:INTERNET
+TEL;TYPE=CELL:123xxxx789
+TEL;TYPE=CELL:237xxxx891
+TEL;TYPE=CELL:378xxxx912
+TEL;TYPE=CELL:789xxxx123
+BDAY:01011852
+item3.URL:http://github.com
+item3.X-ABLabel:PROFILE
+NOTE:INITIALS: N
+PHOTO:https://photo-archive.com/photo.jpg
+CATEGORIES:Classmate,Football club dads
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:No2 Neigbour
+N:Classmate;No2;;;
+item1.EMAIL;TYPE=INTERNET:example2@example.com
+item1.X-ABLabel:INTERNET
+item2.EMAIL;TYPE=INTERNET:example2b@example.com
+item2.X-ABLabel:INTERNET
+TEL;TYPE=CELL:+91456xxxx198
+NOTE:E-mail 4 Address\: example2c@example.com\nE-mail 5 Address\: example2_d
+ oit@example.com\n\n\nRS1tYWlsIDQgQWRkcmVzc1w6IGpheWFwYWwuanBAZ21haWwuY29tX
+ G5FLW1haWwgNSBBZGRyZXNzXDogamF5YXBhbF9jaXZpbEB5YWhvby5jby5pblxu\n\nRS1tYWl
+ sIDQgQWRkcmVzc1w6IGpheWFwYWwuanBAZ21haWwuY29tXG5FLW1haWwgNSBBZGRyZXNzXDoga
+ mF5YXBhbF9jaXZpbEB5YWhvby5jby5pblxuXG5cblJTMXRZV2xzSURRZ1FXUmtjbVZ6YzF3Nkl
+ HcGhlV0Z3WVd3\nINITIALS: N\nGender: Male
+PHOTO:https://lh4.googleusercontent.com/AAAAAAAAAA
+ A/ylAFfo_etd8hs_SbZyewpmeV7Q17r-XlwCOQCEAE/photo.jpg
+CATEGORIES:Neighbour
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:No3 Workbuddy
+N:Workbuddy;No3;;;
+TEL:+91893xxxx873
+NOTE:INITIALS: N
+CATEGORIES:Office,Neighbour
+END:VCARD
