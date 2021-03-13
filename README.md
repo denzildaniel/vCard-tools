@@ -35,11 +35,11 @@ By this stage I was getting a hang of what needed to be done.
 
 **split.py** A script for splitting multi-contact single vCard file (input) to single contact multiple vcf files (Outputs).  
 **vcf_formatter.py** A script for formatting (Overwrite) the single contact multiple vcf files (input) into version 2.1 single contact multiple vcf files (Output)  
-**example_multicontact_vCard.vcf** An example export of 3 contacts from google contacts. 
-**example-split-folder.zip** An example folder after executing the split.py program.
-**example-formatted-folder.zip** An example folder after executing vcf_formatter.py on a copy of the split files.
-**problematic_output_examples.zip** Folder with 3 files- an example problematic split file, actual formatted output, manual formmatted output.
-
+**example_multicontact_vCard.vcf** An example export of 3 contacts from google contacts.   
+**example-split-folder.zip** An example folder after executing the split.py program.  
+**example-formatted-folder.zip** An example folder after executing vcf_formatter.py on a copy of the split files.  
+**problematic_output_examples.zip** Folder with 3 files- an example problematic split file, actual formatted output, manual formmatted output.  
+ 
 *Expert tip* Remember to make a copy of the unformatted vcf files in a separate folder before running vcf_formatter.py since the code overwrites the files being processed.
 
 ## Limitations
