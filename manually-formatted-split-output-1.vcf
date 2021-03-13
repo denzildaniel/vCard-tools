@@ -1,7 +1,0 @@
-BEGIN:VCARD
-VERSION:3.0
-FN:My_best_friend
-N:;My_best_friend;;;
-EMAIL;TYPE=INTERNET;TYPE=HOME:example@example.com
-TEL:1234567890
-END:VCARD
