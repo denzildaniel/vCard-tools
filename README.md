@@ -44,3 +44,6 @@ By this stage I was getting a hang of what needed to be done.
 
 ## Limitations
 The vcf_formatter.py assumes a certain format of the input vcf files. But in my experience I noticed that not all the version 3.0 vcf files that I created from the single vCard were of the same formatting. This resulted in ommission of some contact details in the final output vcf files. I tried to manually format some vcf files. Examples of the files requiring manual processing are saved separately for reference and for improving the code. The contact details in these files are representative and not actuals.
+
+## Update dated 07-May-2022
+I have found a effective tool on the link https://sourceforge.net/projects/csv2vcfconverter/ that helps convert a csv file to the vcf2.1 format needed in old nokia phones.
